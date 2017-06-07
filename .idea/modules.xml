@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tilt-imageview.iml" filepath="$PROJECT_DIR$/tilt-imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tilt-imageview-android.iml" filepath="$PROJECT_DIR$/tilt-imageview-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiltimageview/tiltimageview.iml" filepath="$PROJECT_DIR$/tiltimageview/tiltimageview.iml" />
     </modules>
   </component>
 </project>
